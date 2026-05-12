@@ -1,16 +1,25 @@
-# steam-market-parser
-Node.js library that simplifies interaction with steamcommunity market. Minimum of external dependencies, supports proxy, fully typed.
+# Steam Market Scraper
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/15ed59f3cf5c4f26b8a70ad3702fbbe3)](https://www.codacy.com/gh/dev-syco/node-steam-market-parser/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dev-syco/node-steam-market-parser&amp;utm_campaign=Badge_Grade)
-[![npm version](https://img.shields.io/npm/v/steam-market-parser.svg)](https://npmjs.com/package/steam-market-parser)
-![build status](https://github.com/dev-syco/node-steam-market-parser/actions/workflows/ci.yaml/badge.svg)
+Extended from the `node-steam-market-parser` project, this tool was built to automate monitoring and analysis of item listings on the Steam Community Market.
 
-## Installation
+## Features
 
-Install via [npm](https://www.npmjs.com/package/steam-market-parser):
+- Configurable periodical marketplace listings fetching
+- Automatic request retries on failure
+- Proxy support for request distribution
+- Fully typed Node.js + TypeScript implementation
+- Robust and flexible item pricing and analysis configuration system
+- Analysis pipeline for identifying arbitrage opportunities
+- Real-time mobile alert system for detected opportunities
 
-    npm i steam-market-parser --save
+## Tech Stack
 
-## Documentation
+- Node.js
+- TypeScript
+- Python
+- Web scraping & automation
+- Proxy integration
 
-You can find more examples and information of how to use library at project [Wiki](https://github.com/dev-syco/node-steam-market-parser/wiki)
+## Notes
+
+Development of the project continued in a private repository.
