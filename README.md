@@ -4,7 +4,7 @@ Extended from the `node-steam-market-parser` project, this tool was built to aut
 
 ## Features
 
-- Configurable periodical marketplace listings fetching
+- Configurable periodic marketplace fetching
 - Automatic request retries on failure
 - Proxy support for request distribution
 - Fully typed Node.js + TypeScript implementation
