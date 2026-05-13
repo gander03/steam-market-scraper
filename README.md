@@ -11,6 +11,7 @@ Extended from the `node-steam-market-parser` project, this tool was built to aut
 - Robust and flexible item pricing and analysis configuration system
 - Analysis pipeline for identifying arbitrage opportunities
 - Real-time mobile alert system for detected opportunities
+- Custom Chrome extension for quickly highlighting detections and one-click purchasing of items
 
 ## Tech Stack
 
